@@ -1,0 +1,35 @@
+Happiness Associations With Environmental Characteristics :
+	Weather and daylight
+	Air quality
+	Green Spaces
+	Water availability
+
+War and Peace
+
+Can ‘happiness’ really be measured?:
+Correlates of high life satisfaction and happiness
+	Smiling frequency
+	Smiling with the eyes ("unfakeable smile")
+	Ratings of one's happiness made by friends
+	Frequent verbal expressions of positive emotions
+	Sociability and extraversion
+	Sleep quality
+	Happiness of close relatives
+	Self-reported health
+	High income, and high income rank in a reference group
+	Active involvement in religion
+	Recent positive changes of circumstances (increased income, marriage)
+
+Is ‘life satisfaction’ the same as ‘happiness’?
+
+Happier Countries Are More Suicidal: A Look at the World Happiness Report and Suicide
+High suicide rates, 200 days of winter, not enough babies. How is Finland so happy?
+
+
+links:
+https://ourworldindata.org/happiness-and-life-satisfaction#are-happiness-averages-really-meaningful
+https://worldhappiness.report/ed/2020/
+https://medium.com/@dtg319/happier-countries-are-more-suicidal-a-look-at-the-world-happiness-report-and-suicide-d5f44f69ce8e
+
+Data source:
+https://www.gapminder.org/data

@@ -1,0 +1,9 @@
+GBD Results tool:
+Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD)
+Data: Death rates & absolute number of deaths from suicide
+Geographical coverage:Global, across all regions and countries
+Use the following to cite data included in this download:
+Global Burden of Disease Collaborative Network.
+Global Burden of Disease Study 2019 (GBD 2019) Results.
+Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2020.
+Available from http://ghdx.healthdata.org/gbd-results-tool.

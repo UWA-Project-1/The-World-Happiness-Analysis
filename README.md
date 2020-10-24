@@ -47,7 +47,7 @@ Data clean-up:
 
 **Summary**
 1.	The top 10 and bottom 10 <br>
-2.	World Happiness Analysis <br>
+2.	Factors contributing to Happiness Score: <br>
     •	Freedom to make life choices <br>
     •	GDP per capita <br>
     •	Generosity <br>

@@ -46,7 +46,7 @@ Data clean-up:
 Question to Answer: (To be discussed)
 Summary
 1.	The top 10 and bottom 10
-2.	World Happiness Analysis 
+2.	World Happiness Analysis <br>
     •	Freedom to make life choices
     •	GDP per capita
     •	Generosity

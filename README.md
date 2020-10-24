@@ -35,7 +35,7 @@
 •	Bimal Prabha
 
 ## 🧐 About <a name = "about"></a>
-Description: 
+**Description:**
 Analysing the happiness index of the world from the period 2015-2019.
 Data clean-up:
 1.	Merging data from 2015 to 2019
@@ -45,7 +45,7 @@ Data clean-up:
 5.	Make sure no rows accidentally deleted
 
 
-Summary
+**Summary**
 1.	The top 10 and bottom 10 <br>
 2.	World Happiness Analysis <br>
     •	Freedom to make life choices <br>

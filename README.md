@@ -43,20 +43,22 @@ Data clean-up:
 3.	Check for invalid value
 4.	Make sure the data frame is consistent for all the data set.
 5.	Make sure no rows accidentally deleted
-Question to Answer: (To be discussed)
+
+
 Summary
-1.	The top 10 and bottom 10
+1.	The top 10 and bottom 10 <br>
 2.	World Happiness Analysis <br>
-    •	Freedom to make life choices
-    •	GDP per capita
-    •	Generosity
-    •	Health Life expectancy
-    •	Perceptions of corruption
-    •	Family/social support
-    •	Dystopia Residual
+    •	Freedom to make life choices <br>
+    •	GDP per capita <br>
+    •	Generosity <br>
+    •	Health Life expectancy <br>
+    •	Perceptions of corruption <br>
+    •	Family/social support <br>
+    •	Dystopia Residual <br>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
+Question to Answer: (To be discussed) <br>
 1.	What is the correlation of country happiness and 7 factors?
 2.	What is determining factor look like comparing to bottom 10?
 3.	Do the countries in top 10 and bottom 10 stay consistent over the year?
@@ -68,9 +70,17 @@ Summary
 
 ## ✍️ Observable Trends <a name = "trends"></a>
 
+* The world’s happiest countries are primarily in North Western Europe, North America, and Australia & New Zealand. 
+
+* Economy (GDP per capita) is the most important factor in evaluating a country’s happiness.
+
+* Economy is also strongly positively correlated with other factors like Family and Health. 
+
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
 - Data source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 - Data source: Gmap – geography of the region and country
+- Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD): http://ghdx.healthdata.org/gbd-results-tool
+- Rest Countries API: https://restcountries.eu/rest/v2/
 

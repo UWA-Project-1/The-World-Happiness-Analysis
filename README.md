@@ -58,7 +58,7 @@ Data clean-up:
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Question to Answer: (To be discussed) <br>
+**Questions to Answer:** <br>
 1.	What is the correlation of country happiness and 7 factors?
 2.	What is determining factor look like comparing to bottom 10?
 3.	Do the countries in top 10 and bottom 10 stay consistent over the year?

@@ -70,7 +70,7 @@ Data clean-up:
 
 ## ✍️ Observable Trends <a name = "trends"></a>
 
-![Happiness Ranking 2015-2019](Output/ranking.png)
+![Happiness Ranking 2015-2019](Output/ranking.png =250x)
 * The world’s happiest countries are primarily in North Western Europe, North America, and Australia & New Zealand. 
 
 * Economy (GDP per capita) is the most important factor in evaluating a country’s happiness.

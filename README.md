@@ -91,6 +91,24 @@ Data clean-up:
 
 * From 2017 to 2019 we have another interesting observation – it was not the income, but in fact it was family score which dominated the world happiness score.
 
+### Future Prediction of Australia - Linear Regression
+Based on our rankings from the 2015 to 2019, we’ve made some predictions on the happiness score of Australia along with the predicted happiness score of the top 10th country (meaning the minimum score to get into the top 10) to see if we will make it to the top 10. 
+
+![Regression](Output/Australia_Happiness_Score.png)
+
+### Bonus Part - Happiness Comparison with suicide Rate in the World
+We have already established that European countries are  happiest countries in the world. Simultaneously they have highest suicide rates among other countries.
+But, there is no evidence which shows that the countries with higher happiness score will have high suicide rate. And Australia is not there, which is good.
+
+![Suicid Rate Comparison Aus vs Finland](Output/Suice_Rate_of_Australia_vs_Finland.png)
+
+Finland is an example of a country with a high happiness score and high suicide rate. Australia's suicide rate is lesser than, most of the European nations.  Though Australia's suicide rate is lesser than, most of the European nations, our genrosity is higher than the top country and family values are on par with rank no. 1 So give a pat on your back for being kind and give a hug to your family
+
+### Conclusion 
+This analysis illustrated that the world’s happiest countries are primarily in North Western Europe, North America, and Australia & New Zealand. It also revealed that Economy (GDP per capita) is the most important factor in evaluating a country’s happiness. Unsurprisingly, the happiest countries and world regions generally tended to be ones with strong and stable economies. 
+
+The importance of Economy is also strongly positively correlated with those of Family and Health. This is expected, since more economic stability and higher GDP per capita generally encourages stable and comfortable family life as well as increases the availability of proper medical resources and healthcare. These factors then weigh more when determining overall happiness. 
+
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
 - Data source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv

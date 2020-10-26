@@ -79,13 +79,13 @@ Data clean-up:
 
 * Another interesting observable trend, GDP and generosity has negative correlation factor. Reinforcing that,income does not relate to how generous you are.
 
-![alt text](Output/2019 Heatmap.png?raw=true)
+![Correaltion_Heatmap](Output/2019_Heatmap.png)
 
 *	Heatmap strongly suggest GDP and family with the score above 75%, has the highest cor-relationship with happiness score.
 
 * In much lower ranked countries even though their score was low, their family score was almost on par with the top 10 countries. Yes, there is a noticeable dip in 2016 but it came back stronger than ever in the last 3 years.
 
-![Happiness Ranking 2015-2019](https://github.com/UWA-Project-1/UWA-Project/2019_TopBottom_Analysis.png)
+![Top Bottom Analysis](Output/2019_TopBottom_Analysis.png)
 
 * In 2015  australia,north America  , some of European  and Asian countries were dominated by GDP. And again in 2016 majority of world happiness was influenced by GDP.
 

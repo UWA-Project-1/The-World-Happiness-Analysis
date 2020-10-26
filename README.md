@@ -97,6 +97,9 @@ Based on our rankings from the 2015 to 2019, we’ve made some predictions on th
 ![Regression](Output/Australia_Happiness_Score.png)
 
 ### Bonus Part - Happiness Comparison with suicide Rate in the World
+
+![Comparison](Output/happiness_suicide_2019.png)
+
 We have already established that European countries are  happiest countries in the world. Simultaneously they have highest suicide rates among other countries.
 But, there is no evidence which shows that the countries with higher happiness score will have high suicide rate. And Australia is not there, which is good.
 
